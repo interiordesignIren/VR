@@ -1,0 +1,4 @@
+Прототип в Unity за интериорен дизайн
+Автор: Ирен Илиева
+
+https://github.com/interiordesignIren/VR
